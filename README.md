@@ -1,7 +1,3 @@
-Perfect, Nimrod — here’s a clean, professional **`README.md`** you can copy-paste into your GitHub repo. It reflects your completed **Stage 1: Basic Transaction Tracking**.
-
----
-
 ## 📄 `README.md` — Personal Finance Visualizer
 
 ```md
