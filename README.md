@@ -75,7 +75,7 @@ npm run dev
 
 ## 🌐 Live Demo
 
-[🔗 Click to view the live deployed app](https://your-vercel-url.vercel.app)
+[🔗 Click to view the live deployed app](https://transaction-tracker-kmtt.vercel.app/)
 
 ---
 
